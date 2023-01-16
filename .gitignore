@@ -1,0 +1,7 @@
+.DS_Store
+.vscode
+/Makefile
+src
+build
+*.a
+compile_flags.txt
